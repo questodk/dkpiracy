@@ -1,0 +1,57 @@
+h1 {
+    color: darkred;
+    font-size: 50px;
+    font-family: "Courier New", Courier, monospace;
+
+}
+body {
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: black;
+}
+p{
+    color: darkred;
+    font-size: 30px;
+    font-family: "Courier New", Courier, monospace;
+}
+p1 {
+    color: darkred;
+    font-size: 40px;
+    font-family: "Courier New", Courier, monospace;
+    font-weight: bold;
+}
+.button {
+    background-color: #555555;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+    border: none;
+    border-radius: 12px;
+    transition-duration: 0.4s;
+    width: 120px;
+}
+.button:hover {
+    color: white;
+    background-color: #4CAF50;
+}
+.image {
+    position: absolute;
+    top: 20%;
+    left: 42%;
+}
+.text1 {
+    position: absolute;
+    top: 1%;
+    left: 37.5%;
+}
+.text2 {
+    position: absolute;
+    top: 8%;
+    left: 36.5%;
+}
+.text3 {
+    position: absolute;
+    top: 60%;
+    left: 33.3%;
+}
