@@ -36,22 +36,36 @@ p1 {
     background-color: #4CAF50;
 }
 .image {
-    position: absolute;
-    top: 20%;
+    position:absolute;
+    top: 25%;
     left: 42%;
+
 }
-.text1 {
-    position: absolute;
-    top: 1%;
-    left: 37.5%;
+.links {
+    color: darkred;
+    font-size: 30px;
+    font-family: Courier New, Courier, monospace
+    
 }
-.text2 {
-    position: absolute;
-    top: 8%;
-    left: 36.5%;
+a {
+    text-decoration: none;
 }
-.text3 {
-    position: absolute;
-    top: 60%;
-    left: 33.3%;
+.linkholder {
+    border: darkred;
+    border-style: solid;
+    width: 30%;
+    position: relative;
+    top: -150px;
+}
+.kopiring {
+    font-size: 50px;
+    font-family: Courier New, Courier, monospace;
+    color: darkred;
+    text-decoration: underline;
+}
+.linkholder2 {
+    border: darkred;
+    position: relative;
+    width: 40%;
+    top: -220px;
 }
