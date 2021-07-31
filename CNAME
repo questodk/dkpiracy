@@ -1,1 +1,3 @@
-www.dinbajer.dk
+type=CNAME
+name=www
+value=questodk.github.io
